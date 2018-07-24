@@ -1,2 +1,3 @@
 # Music-Classification-and-Ranking-Analysis
-# Project URL: https://sites.google.com/georgetown.edu/anly501project/home
+## Team Project with Chen Zhong and Min Xiao
+## Project URL: https://sites.google.com/georgetown.edu/anly501project/home
