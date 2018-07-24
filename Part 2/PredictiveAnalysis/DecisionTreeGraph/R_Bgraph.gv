@@ -1,0 +1,25 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label=<time_signature &le; 0.741<br/>gini = 0.5<br/>samples = 4517<br/>value = [2250, 2267]<br/>class = 1>, fillcolor="#399de502"] ;
+1 [label=<time_signature &le; 0.616<br/>gini = 0.37<br/>samples = 3001<br/>value = [734, 2267]<br/>class = 1>, fillcolor="#399de5ac"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<gini = 0.0<br/>samples = 166<br/>value = [166, 0]<br/>class = 0>, fillcolor="#e58139ff"] ;
+1 -> 2 ;
+3 [label=<popularity &le; 0.475<br/>gini = 0.32<br/>samples = 2835<br/>value = [568, 2267]<br/>class = 1>, fillcolor="#399de5bf"] ;
+1 -> 3 ;
+4 [label=<duration_ms &le; 0.143<br/>gini = 0.476<br/>samples = 949<br/>value = [370, 579]<br/>class = 1>, fillcolor="#399de55c"] ;
+3 -> 4 ;
+5 [label=<gini = 0.498<br/>samples = 234<br/>value = [125, 109]<br/>class = 0>, fillcolor="#e5813921"] ;
+4 -> 5 ;
+6 [label=<gini = 0.45<br/>samples = 715<br/>value = [245, 470]<br/>class = 1>, fillcolor="#399de57a"] ;
+4 -> 6 ;
+7 [label=<popularity &le; 0.615<br/>gini = 0.188<br/>samples = 1886<br/>value = [198, 1688]<br/>class = 1>, fillcolor="#399de5e1"] ;
+3 -> 7 ;
+8 [label=<gini = 0.295<br/>samples = 724<br/>value = [130, 594]<br/>class = 1>, fillcolor="#399de5c7"] ;
+7 -> 8 ;
+9 [label=<gini = 0.11<br/>samples = 1162<br/>value = [68, 1094]<br/>class = 1>, fillcolor="#399de5ef"] ;
+7 -> 9 ;
+10 [label=<gini = 0.0<br/>samples = 1516<br/>value = [1516, 0]<br/>class = 0>, fillcolor="#e58139ff"] ;
+0 -> 10 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}

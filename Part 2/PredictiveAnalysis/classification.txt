@@ -1,0 +1,1509 @@
+classification result 
+
+ classification result for chill
+decisionTree training: 0.758894 (0.023394)
+confusion matrix 
+[[773 337]
+ [177 905]]             precision    recall  f1-score   support
+
+          0       0.81      0.70      0.75      1110
+          1       0.73      0.84      0.78      1082
+
+avg / total       0.77      0.77      0.76      2192
+
+knn training: 0.769643 (0.014287)
+confusion matrix 
+[[759 351]
+ [194 888]]             precision    recall  f1-score   support
+
+          0       0.80      0.68      0.74      1110
+          1       0.72      0.82      0.77      1082
+
+avg / total       0.76      0.75      0.75      2192
+
+Naive Bayes training: 0.738766 (0.023726)
+confusion matrix 
+[[766 344]
+ [240 842]]             precision    recall  f1-score   support
+
+          0       0.76      0.69      0.72      1110
+          1       0.71      0.78      0.74      1082
+
+avg / total       0.74      0.73      0.73      2192
+
+SVM training: 0.753808 (0.022581)
+confusion matrix 
+[[823 287]
+ [241 841]]             precision    recall  f1-score   support
+
+          0       0.77      0.74      0.76      1110
+          1       0.75      0.78      0.76      1082
+
+avg / total       0.76      0.76      0.76      2192
+
+Random Forest training: 0.743450 (0.020541)
+confusion matrix 
+[[740 370]
+ [163 919]]             precision    recall  f1-score   support
+
+          0       0.82      0.67      0.74      1110
+          1       0.71      0.85      0.78      1082
+
+avg / total       0.77      0.76      0.75      2192
+
+
+ classification result for mood
+decisionTree training: 0.709340 (0.013461)
+confusion matrix 
+[[500 440]
+ [139 816]]             precision    recall  f1-score   support
+
+          0       0.78      0.53      0.63       940
+          1       0.65      0.85      0.74       955
+
+avg / total       0.72      0.69      0.69      1895
+
+knn training: 0.710704 (0.013283)
+confusion matrix 
+[[613 327]
+ [203 752]]             precision    recall  f1-score   support
+
+          0       0.75      0.65      0.70       940
+          1       0.70      0.79      0.74       955
+
+avg / total       0.72      0.72      0.72      1895
+
+Naive Bayes training: 0.659123 (0.023277)
+confusion matrix 
+[[446 494]
+ [155 800]]             precision    recall  f1-score   support
+
+          0       0.74      0.47      0.58       940
+          1       0.62      0.84      0.71       955
+
+avg / total       0.68      0.66      0.65      1895
+
+SVM training: 0.670432 (0.027464)
+confusion matrix 
+[[637 303]
+ [254 701]]             precision    recall  f1-score   support
+
+          0       0.71      0.68      0.70       940
+          1       0.70      0.73      0.72       955
+
+avg / total       0.71      0.71      0.71      1895
+
+Random Forest training: 0.706623 (0.015820)
+confusion matrix 
+[[519 421]
+ [166 789]]             precision    recall  f1-score   support
+
+          0       0.76      0.55      0.64       940
+          1       0.65      0.83      0.73       955
+
+avg / total       0.70      0.69      0.68      1895
+
+
+ classification result for pop
+decisionTree training: 0.792654 (0.019429)
+confusion matrix 
+[[679 239]
+ [192 687]]             precision    recall  f1-score   support
+
+          0       0.78      0.74      0.76       918
+          1       0.74      0.78      0.76       879
+
+avg / total       0.76      0.76      0.76      1797
+
+knn training: 0.780724 (0.011983)
+confusion matrix 
+[[600 318]
+ [125 754]]             precision    recall  f1-score   support
+
+          0       0.83      0.65      0.73       918
+          1       0.70      0.86      0.77       879
+
+avg / total       0.77      0.75      0.75      1797
+
+Naive Bayes training: 0.673114 (0.021076)
+confusion matrix 
+[[375 543]
+ [ 76 803]]             precision    recall  f1-score   support
+
+          0       0.83      0.41      0.55       918
+          1       0.60      0.91      0.72       879
+
+avg / total       0.72      0.66      0.63      1797
+
+SVM training: 0.799569 (0.018774)
+confusion matrix 
+[[636 282]
+ [149 730]]             precision    recall  f1-score   support
+
+          0       0.81      0.69      0.75       918
+          1       0.72      0.83      0.77       879
+
+avg / total       0.77      0.76      0.76      1797
+
+Random Forest training: 0.767122 (0.020143)
+confusion matrix 
+[[549 369]
+ [ 72 807]]             precision    recall  f1-score   support
+
+          0       0.88      0.60      0.71       918
+          1       0.69      0.92      0.79       879
+
+avg / total       0.79      0.75      0.75      1797
+
+
+ classification result for electronic
+decisionTree training: 0.733582 (0.016344)
+confusion matrix 
+[[663 295]
+ [239 761]]             precision    recall  f1-score   support
+
+          0       0.74      0.69      0.71       958
+          1       0.72      0.76      0.74      1000
+
+avg / total       0.73      0.73      0.73      1958
+
+knn training: 0.733360 (0.013995)
+confusion matrix 
+[[670 288]
+ [212 788]]             precision    recall  f1-score   support
+
+          0       0.76      0.70      0.73       958
+          1       0.73      0.79      0.76      1000
+
+avg / total       0.75      0.74      0.74      1958
+
+Naive Bayes training: 0.720889 (0.023662)
+confusion matrix 
+[[627 331]
+ [211 789]]             precision    recall  f1-score   support
+
+          0       0.75      0.65      0.70       958
+          1       0.70      0.79      0.74      1000
+
+avg / total       0.73      0.72      0.72      1958
+
+SVM training: 0.746060 (0.026504)
+confusion matrix 
+[[727 231]
+ [308 692]]             precision    recall  f1-score   support
+
+          0       0.70      0.76      0.73       958
+          1       0.75      0.69      0.72      1000
+
+avg / total       0.73      0.72      0.72      1958
+
+Random Forest training: 0.712557 (0.020616)
+confusion matrix 
+[[626 332]
+ [210 790]]             precision    recall  f1-score   support
+
+          0       0.75      0.65      0.70       958
+          1       0.70      0.79      0.74      1000
+
+avg / total       0.73      0.72      0.72      1958
+
+
+ classification result for hip-hop
+decisionTree training: 0.837770 (0.022867)
+confusion matrix 
+[[728 249]
+ [ 93 898]]             precision    recall  f1-score   support
+
+          0       0.89      0.75      0.81       977
+          1       0.78      0.91      0.84       991
+
+avg / total       0.83      0.83      0.83      1968
+
+knn training: 0.838629 (0.015135)
+confusion matrix 
+[[768 209]
+ [113 878]]             precision    recall  f1-score   support
+
+          0       0.87      0.79      0.83       977
+          1       0.81      0.89      0.85       991
+
+avg / total       0.84      0.84      0.84      1968
+
+Naive Bayes training: 0.740637 (0.021466)
+confusion matrix 
+[[638 339]
+ [180 811]]             precision    recall  f1-score   support
+
+          0       0.78      0.65      0.71       977
+          1       0.71      0.82      0.76       991
+
+avg / total       0.74      0.74      0.73      1968
+
+SVM training: 0.822514 (0.019440)
+confusion matrix 
+[[790 187]
+ [165 826]]             precision    recall  f1-score   support
+
+          0       0.83      0.81      0.82       977
+          1       0.82      0.83      0.82       991
+
+avg / total       0.82      0.82      0.82      1968
+
+Random Forest training: 0.780273 (0.015027)
+confusion matrix 
+[[680 297]
+ [165 826]]             precision    recall  f1-score   support
+
+          0       0.80      0.70      0.75       977
+          1       0.74      0.83      0.78       991
+
+avg / total       0.77      0.77      0.76      1968
+
+
+ classification result for party
+decisionTree training: 0.855238 (0.012178)
+confusion matrix 
+[[605 127]
+ [119 949]]             precision    recall  f1-score   support
+
+          0       0.84      0.83      0.83       732
+          1       0.88      0.89      0.89      1068
+
+avg / total       0.86      0.86      0.86      1800
+
+knn training: 0.834762 (0.015836)
+confusion matrix 
+[[565 167]
+ [110 958]]             precision    recall  f1-score   support
+
+          0       0.84      0.77      0.80       732
+          1       0.85      0.90      0.87      1068
+
+avg / total       0.85      0.85      0.84      1800
+
+Naive Bayes training: 0.819762 (0.009704)
+confusion matrix 
+[[573 159]
+ [140 928]]             precision    recall  f1-score   support
+
+          0       0.80      0.78      0.79       732
+          1       0.85      0.87      0.86      1068
+
+avg / total       0.83      0.83      0.83      1800
+
+SVM training: 0.730952 (0.025062)
+confusion matrix 
+[[397 335]
+ [ 95 973]]             precision    recall  f1-score   support
+
+          0       0.81      0.54      0.65       732
+          1       0.74      0.91      0.82      1068
+
+avg / total       0.77      0.76      0.75      1800
+
+Random Forest training: 0.829286 (0.010913)
+confusion matrix 
+[[631 101]
+ [193 875]]             precision    recall  f1-score   support
+
+          0       0.77      0.86      0.81       732
+          1       0.90      0.82      0.86      1068
+
+avg / total       0.84      0.84      0.84      1800
+
+
+ classification result for rock
+decisionTree training: 0.785299 (0.024284)
+confusion matrix 
+[[759 279]
+ [152 898]]             precision    recall  f1-score   support
+
+          0       0.83      0.73      0.78      1038
+          1       0.76      0.86      0.81      1050
+
+avg / total       0.80      0.79      0.79      2088
+
+knn training: 0.776266 (0.017660)
+confusion matrix 
+[[735 303]
+ [178 872]]             precision    recall  f1-score   support
+
+          0       0.81      0.71      0.75      1038
+          1       0.74      0.83      0.78      1050
+
+avg / total       0.77      0.77      0.77      2088
+
+Naive Bayes training: 0.646138 (0.012203)
+confusion matrix 
+[[457 581]
+ [153 897]]             precision    recall  f1-score   support
+
+          0       0.75      0.44      0.55      1038
+          1       0.61      0.85      0.71      1050
+
+avg / total       0.68      0.65      0.63      2088
+
+SVM training: 0.787560 (0.014311)
+confusion matrix 
+[[800 238]
+ [228 822]]             precision    recall  f1-score   support
+
+          0       0.78      0.77      0.77      1038
+          1       0.78      0.78      0.78      1050
+
+avg / total       0.78      0.78      0.78      2088
+
+Random Forest training: 0.762525 (0.019395)
+confusion matrix 
+[[753 285]
+ [167 883]]             precision    recall  f1-score   support
+
+          0       0.82      0.73      0.77      1038
+          1       0.76      0.84      0.80      1050
+
+avg / total       0.79      0.78      0.78      2088
+
+
+ classification result for workout
+decisionTree training: 0.731667 (0.012282)
+confusion matrix 
+[[419 359]
+ [154 868]]             precision    recall  f1-score   support
+
+          0       0.73      0.54      0.62       778
+          1       0.71      0.85      0.77      1022
+
+avg / total       0.72      0.71      0.71      1800
+
+knn training: 0.689286 (0.019438)
+confusion matrix 
+[[414 364]
+ [199 823]]             precision    recall  f1-score   support
+
+          0       0.68      0.53      0.60       778
+          1       0.69      0.81      0.75      1022
+
+avg / total       0.69      0.69      0.68      1800
+
+Naive Bayes training: 0.689524 (0.016295)
+confusion matrix 
+[[306 472]
+ [114 908]]             precision    recall  f1-score   support
+
+          0       0.73      0.39      0.51       778
+          1       0.66      0.89      0.76      1022
+
+avg / total       0.69      0.67      0.65      1800
+
+SVM training: 0.698571 (0.023065)
+confusion matrix 
+[[ 223  555]
+ [  20 1002]]             precision    recall  f1-score   support
+
+          0       0.92      0.29      0.44       778
+          1       0.64      0.98      0.78      1022
+
+avg / total       0.76      0.68      0.63      1800
+
+Random Forest training: 0.730476 (0.022305)
+confusion matrix 
+[[332 446]
+ [ 86 936]]             precision    recall  f1-score   support
+
+          0       0.79      0.43      0.56       778
+          1       0.68      0.92      0.78      1022
+
+avg / total       0.73      0.70      0.68      1800
+
+
+ classification result for Dinner
+decisionTree training: 0.769275 (0.014382)
+confusion matrix 
+[[ 733  445]
+ [ 109 1054]]             precision    recall  f1-score   support
+
+          0       0.87      0.62      0.73      1178
+          1       0.70      0.91      0.79      1163
+
+avg / total       0.79      0.76      0.76      2341
+
+knn training: 0.736682 (0.008459)
+confusion matrix 
+[[788 390]
+ [201 962]]             precision    recall  f1-score   support
+
+          0       0.80      0.67      0.73      1178
+          1       0.71      0.83      0.77      1163
+
+avg / total       0.75      0.75      0.75      2341
+
+Naive Bayes training: 0.737049 (0.020560)
+confusion matrix 
+[[857 321]
+ [280 883]]             precision    recall  f1-score   support
+
+          0       0.75      0.73      0.74      1178
+          1       0.73      0.76      0.75      1163
+
+avg / total       0.74      0.74      0.74      2341
+
+SVM training: 0.749496 (0.016046)
+confusion matrix 
+[[895 283]
+ [277 886]]             precision    recall  f1-score   support
+
+          0       0.76      0.76      0.76      1178
+          1       0.76      0.76      0.76      1163
+
+avg / total       0.76      0.76      0.76      2341
+
+Random Forest training: 0.758836 (0.014981)
+confusion matrix 
+[[ 761  417]
+ [ 159 1004]]             precision    recall  f1-score   support
+
+          0       0.83      0.65      0.73      1178
+          1       0.71      0.86      0.78      1163
+
+avg / total       0.77      0.75      0.75      2341
+
+
+ classification result for Sleep
+decisionTree training: 0.828543 (0.016908)
+confusion matrix 
+[[895 187]
+ [174 871]]             precision    recall  f1-score   support
+
+          0       0.84      0.83      0.83      1082
+          1       0.82      0.83      0.83      1045
+
+avg / total       0.83      0.83      0.83      2127
+
+knn training: 0.816656 (0.020585)
+confusion matrix 
+[[874 208]
+ [171 874]]             precision    recall  f1-score   support
+
+          0       0.84      0.81      0.82      1082
+          1       0.81      0.84      0.82      1045
+
+avg / total       0.82      0.82      0.82      2127
+
+Naive Bayes training: 0.796297 (0.014147)
+confusion matrix 
+[[926 156]
+ [291 754]]             precision    recall  f1-score   support
+
+          0       0.76      0.86      0.81      1082
+          1       0.83      0.72      0.77      1045
+
+avg / total       0.79      0.79      0.79      2127
+
+SVM training: 0.819068 (0.019294)
+confusion matrix 
+[[921 161]
+ [224 821]]             precision    recall  f1-score   support
+
+          0       0.80      0.85      0.83      1082
+          1       0.84      0.79      0.81      1045
+
+avg / total       0.82      0.82      0.82      2127
+
+Random Forest training: 0.807785 (0.014237)
+confusion matrix 
+[[912 170]
+ [249 796]]             precision    recall  f1-score   support
+
+          0       0.79      0.84      0.81      1082
+          1       0.82      0.76      0.79      1045
+
+avg / total       0.80      0.80      0.80      2127
+
+
+ classification result for Indie
+decisionTree training: 0.730042 (0.016772)
+confusion matrix 
+[[782 334]
+ [227 864]]             precision    recall  f1-score   support
+
+          0       0.78      0.70      0.74      1116
+          1       0.72      0.79      0.75      1091
+
+avg / total       0.75      0.75      0.75      2207
+
+knn training: 0.717614 (0.011906)
+confusion matrix 
+[[686 430]
+ [182 909]]             precision    recall  f1-score   support
+
+          0       0.79      0.61      0.69      1116
+          1       0.68      0.83      0.75      1091
+
+avg / total       0.74      0.72      0.72      2207
+
+Naive Bayes training: 0.644973 (0.018462)
+confusion matrix 
+[[424 692]
+ [103 988]]             precision    recall  f1-score   support
+
+          0       0.80      0.38      0.52      1116
+          1       0.59      0.91      0.71      1091
+
+avg / total       0.70      0.64      0.61      2207
+
+SVM training: 0.735678 (0.018583)
+confusion matrix 
+[[700 416]
+ [224 867]]             precision    recall  f1-score   support
+
+          0       0.76      0.63      0.69      1116
+          1       0.68      0.79      0.73      1091
+
+avg / total       0.72      0.71      0.71      2207
+
+Random Forest training: 0.714117 (0.015843)
+confusion matrix 
+[[ 552  564]
+ [  86 1005]]             precision    recall  f1-score   support
+
+          0       0.87      0.49      0.63      1116
+          1       0.64      0.92      0.76      1091
+
+avg / total       0.75      0.71      0.69      2207
+
+
+ classification result for R&B
+decisionTree training: 0.864282 (0.023280)
+confusion matrix 
+[[722 268]
+ [  0 947]]             precision    recall  f1-score   support
+
+          0       1.00      0.73      0.84       990
+          1       0.78      1.00      0.88       947
+
+avg / total       0.89      0.86      0.86      1937
+
+knn training: 0.845250 (0.019785)
+confusion matrix 
+[[792 198]
+ [ 84 863]]             precision    recall  f1-score   support
+
+          0       0.90      0.80      0.85       990
+          1       0.81      0.91      0.86       947
+
+avg / total       0.86      0.85      0.85      1937
+
+Naive Bayes training: 0.865168 (0.023095)
+confusion matrix 
+[[725 265]
+ [  0 947]]             precision    recall  f1-score   support
+
+          0       1.00      0.73      0.85       990
+          1       0.78      1.00      0.88       947
+
+avg / total       0.89      0.86      0.86      1937
+
+SVM training: 0.739878 (0.016674)
+confusion matrix 
+[[720 270]
+ [ 56 891]]             precision    recall  f1-score   support
+
+          0       0.93      0.73      0.82       990
+          1       0.77      0.94      0.85       947
+
+avg / total       0.85      0.83      0.83      1937
+
+Random Forest training: 0.864947 (0.023085)
+confusion matrix 
+[[725 265]
+ [  0 947]]             precision    recall  f1-score   support
+
+          0       1.00      0.73      0.85       990
+          1       0.78      1.00      0.88       947
+
+avg / total       0.89      0.86      0.86      1937
+
+
+ classification result for Trending
+decisionTree training: 0.737176 (0.026476)
+confusion matrix 
+[[836  67]
+ [417 502]]             precision    recall  f1-score   support
+
+          0       0.67      0.93      0.78       903
+          1       0.88      0.55      0.67       919
+
+avg / total       0.78      0.73      0.72      1822
+
+knn training: 0.753412 (0.021713)
+confusion matrix 
+[[657 246]
+ [192 727]]             precision    recall  f1-score   support
+
+          0       0.77      0.73      0.75       903
+          1       0.75      0.79      0.77       919
+
+avg / total       0.76      0.76      0.76      1822
+
+Naive Bayes training: 0.616235 (0.025286)
+confusion matrix 
+[[378 525]
+ [130 789]]             precision    recall  f1-score   support
+
+          0       0.74      0.42      0.54       903
+          1       0.60      0.86      0.71       919
+
+avg / total       0.67      0.64      0.62      1822
+
+SVM training: 0.768706 (0.028742)
+confusion matrix 
+[[709 194]
+ [221 698]]             precision    recall  f1-score   support
+
+          0       0.76      0.79      0.77       903
+          1       0.78      0.76      0.77       919
+
+avg / total       0.77      0.77      0.77      1822
+
+Random Forest training: 0.765882 (0.025238)
+confusion matrix 
+[[642 261]
+ [146 773]]             precision    recall  f1-score   support
+
+          0       0.81      0.71      0.76       903
+          1       0.75      0.84      0.79       919
+
+avg / total       0.78      0.78      0.78      1822
+
+
+ classification result for Metal
+decisionTree training: 0.886016 (0.014021)
+confusion matrix 
+[[ 899  144]
+ [  93 1004]]             precision    recall  f1-score   support
+
+          0       0.91      0.86      0.88      1043
+          1       0.87      0.92      0.89      1097
+
+avg / total       0.89      0.89      0.89      2140
+
+knn training: 0.861383 (0.017877)
+confusion matrix 
+[[ 851  192]
+ [  76 1021]]             precision    recall  f1-score   support
+
+          0       0.92      0.82      0.86      1043
+          1       0.84      0.93      0.88      1097
+
+avg / total       0.88      0.87      0.87      2140
+
+Naive Bayes training: 0.856770 (0.008612)
+confusion matrix 
+[[ 841  202]
+ [  75 1022]]             precision    recall  f1-score   support
+
+          0       0.92      0.81      0.86      1043
+          1       0.83      0.93      0.88      1097
+
+avg / total       0.88      0.87      0.87      2140
+
+SVM training: 0.884814 (0.010357)
+confusion matrix 
+[[ 879  164]
+ [  68 1029]]             precision    recall  f1-score   support
+
+          0       0.93      0.84      0.88      1043
+          1       0.86      0.94      0.90      1097
+
+avg / total       0.89      0.89      0.89      2140
+
+Random Forest training: 0.869393 (0.013796)
+confusion matrix 
+[[892 151]
+ [145 952]]             precision    recall  f1-score   support
+
+          0       0.86      0.86      0.86      1043
+          1       0.86      0.87      0.87      1097
+
+avg / total       0.86      0.86      0.86      2140
+
+
+ classification result for Soul
+decisionTree training: 0.747338 (0.017669)
+confusion matrix 
+[[648 492]
+ [129 991]]             precision    recall  f1-score   support
+
+          0       0.83      0.57      0.68      1140
+          1       0.67      0.88      0.76      1120
+
+avg / total       0.75      0.73      0.72      2260
+
+knn training: 0.733690 (0.017244)
+confusion matrix 
+[[763 377]
+ [230 890]]             precision    recall  f1-score   support
+
+          0       0.77      0.67      0.72      1140
+          1       0.70      0.79      0.75      1120
+
+avg / total       0.74      0.73      0.73      2260
+
+Naive Bayes training: 0.571515 (0.016817)
+confusion matrix 
+[[335 805]
+ [232 888]]             precision    recall  f1-score   support
+
+          0       0.59      0.29      0.39      1140
+          1       0.52      0.79      0.63      1120
+
+avg / total       0.56      0.54      0.51      2260
+
+SVM training: 0.704288 (0.019307)
+confusion matrix 
+[[838 302]
+ [320 800]]             precision    recall  f1-score   support
+
+          0       0.72      0.74      0.73      1140
+          1       0.73      0.71      0.72      1120
+
+avg / total       0.72      0.72      0.72      2260
+
+Random Forest training: 0.697845 (0.016109)
+confusion matrix 
+[[ 493  647]
+ [  65 1055]]             precision    recall  f1-score   support
+
+          0       0.88      0.43      0.58      1140
+          1       0.62      0.94      0.75      1120
+
+avg / total       0.75      0.68      0.66      2260
+
+
+ classification result for Romance
+decisionTree training: 0.755690 (0.015521)
+confusion matrix 
+[[638 252]
+ [195 685]]             precision    recall  f1-score   support
+
+          0       0.77      0.72      0.74       890
+          1       0.73      0.78      0.75       880
+
+avg / total       0.75      0.75      0.75      1770
+
+knn training: 0.746731 (0.014414)
+confusion matrix 
+[[614 276]
+ [146 734]]             precision    recall  f1-score   support
+
+          0       0.81      0.69      0.74       890
+          1       0.73      0.83      0.78       880
+
+avg / total       0.77      0.76      0.76      1770
+
+Naive Bayes training: 0.748910 (0.017662)
+confusion matrix 
+[[599 291]
+ [118 762]]             precision    recall  f1-score   support
+
+          0       0.84      0.67      0.75       890
+          1       0.72      0.87      0.79       880
+
+avg / total       0.78      0.77      0.77      1770
+
+SVM training: 0.767554 (0.011201)
+confusion matrix 
+[[685 205]
+ [205 675]]             precision    recall  f1-score   support
+
+          0       0.77      0.77      0.77       890
+          1       0.77      0.77      0.77       880
+
+avg / total       0.77      0.77      0.77      1770
+
+Random Forest training: 0.740678 (0.015100)
+confusion matrix 
+[[552 338]
+ [ 95 785]]             precision    recall  f1-score   support
+
+          0       0.85      0.62      0.72       890
+          1       0.70      0.89      0.78       880
+
+avg / total       0.78      0.76      0.75      1770
+
+
+ classification result for Jazz
+decisionTree training: 0.818048 (0.020752)
+confusion matrix 
+[[786 188]
+ [161 880]]             precision    recall  f1-score   support
+
+          0       0.83      0.81      0.82       974
+          1       0.82      0.85      0.83      1041
+
+avg / total       0.83      0.83      0.83      2015
+
+knn training: 0.827410 (0.018090)
+confusion matrix 
+[[771 203]
+ [150 891]]             precision    recall  f1-score   support
+
+          0       0.84      0.79      0.81       974
+          1       0.81      0.86      0.83      1041
+
+avg / total       0.83      0.82      0.82      2015
+
+Naive Bayes training: 0.801659 (0.020703)
+confusion matrix 
+[[809 165]
+ [245 796]]             precision    recall  f1-score   support
+
+          0       0.77      0.83      0.80       974
+          1       0.83      0.76      0.80      1041
+
+avg / total       0.80      0.80      0.80      2015
+
+SVM training: 0.814854 (0.016893)
+confusion matrix 
+[[790 184]
+ [172 869]]             precision    recall  f1-score   support
+
+          0       0.82      0.81      0.82       974
+          1       0.83      0.83      0.83      1041
+
+avg / total       0.82      0.82      0.82      2015
+
+Random Forest training: 0.804426 (0.014032)
+confusion matrix 
+[[741 233]
+ [163 878]]             precision    recall  f1-score   support
+
+          0       0.82      0.76      0.79       974
+          1       0.79      0.84      0.82      1041
+
+avg / total       0.80      0.80      0.80      2015
+
+
+ classification result for Classical
+decisionTree training: 0.746315 (0.010529)
+confusion matrix 
+[[761 209]
+ [277 642]]             precision    recall  f1-score   support
+
+          0       0.73      0.78      0.76       970
+          1       0.75      0.70      0.73       919
+
+avg / total       0.74      0.74      0.74      1889
+
+knn training: 0.747454 (0.023526)
+confusion matrix 
+[[667 303]
+ [191 728]]             precision    recall  f1-score   support
+
+          0       0.78      0.69      0.73       970
+          1       0.71      0.79      0.75       919
+
+avg / total       0.74      0.74      0.74      1889
+
+Naive Bayes training: 0.648063 (0.015146)
+confusion matrix 
+[[829 141]
+ [445 474]]             precision    recall  f1-score   support
+
+          0       0.65      0.85      0.74       970
+          1       0.77      0.52      0.62       919
+
+avg / total       0.71      0.69      0.68      1889
+
+SVM training: 0.751991 (0.011802)
+confusion matrix 
+[[718 252]
+ [223 696]]             precision    recall  f1-score   support
+
+          0       0.76      0.74      0.75       970
+          1       0.73      0.76      0.75       919
+
+avg / total       0.75      0.75      0.75      1889
+
+Random Forest training: 0.718194 (0.026190)
+confusion matrix 
+[[645 325]
+ [198 721]]             precision    recall  f1-score   support
+
+          0       0.77      0.66      0.71       970
+          1       0.69      0.78      0.73       919
+
+avg / total       0.73      0.72      0.72      1889
+
+
+ classification result for Latin
+decisionTree training: 0.782694 (0.022444)
+confusion matrix 
+[[755 271]
+ [171 789]]             precision    recall  f1-score   support
+
+          0       0.82      0.74      0.77      1026
+          1       0.74      0.82      0.78       960
+
+avg / total       0.78      0.78      0.78      1986
+
+knn training: 0.777088 (0.014618)
+confusion matrix 
+[[754 272]
+ [163 797]]             precision    recall  f1-score   support
+
+          0       0.82      0.73      0.78      1026
+          1       0.75      0.83      0.79       960
+
+avg / total       0.79      0.78      0.78      1986
+
+Naive Bayes training: 0.611359 (0.019407)
+confusion matrix 
+[[364 662]
+ [146 814]]             precision    recall  f1-score   support
+
+          0       0.71      0.35      0.47      1026
+          1       0.55      0.85      0.67       960
+
+avg / total       0.64      0.59      0.57      1986
+
+SVM training: 0.780976 (0.021787)
+confusion matrix 
+[[789 237]
+ [215 745]]             precision    recall  f1-score   support
+
+          0       0.79      0.77      0.78      1026
+          1       0.76      0.78      0.77       960
+
+avg / total       0.77      0.77      0.77      1986
+
+Random Forest training: 0.768888 (0.022217)
+confusion matrix 
+[[735 291]
+ [200 760]]             precision    recall  f1-score   support
+
+          0       0.79      0.72      0.75      1026
+          1       0.72      0.79      0.76       960
+
+avg / total       0.76      0.75      0.75      1986
+
+
+ classification result for Country
+decisionTree training: 0.796807 (0.014383)
+confusion matrix 
+[[767 303]
+ [ 95 923]]             precision    recall  f1-score   support
+
+          0       0.89      0.72      0.79      1070
+          1       0.75      0.91      0.82      1018
+
+avg / total       0.82      0.81      0.81      2088
+
+knn training: 0.787768 (0.008138)
+confusion matrix 
+[[764 306]
+ [106 912]]             precision    recall  f1-score   support
+
+          0       0.88      0.71      0.79      1070
+          1       0.75      0.90      0.82      1018
+
+avg / total       0.82      0.80      0.80      2088
+
+Naive Bayes training: 0.644085 (0.027646)
+confusion matrix 
+[[427 643]
+ [ 92 926]]             precision    recall  f1-score   support
+
+          0       0.82      0.40      0.54      1070
+          1       0.59      0.91      0.72      1018
+
+avg / total       0.71      0.65      0.62      2088
+
+SVM training: 0.792695 (0.013970)
+confusion matrix 
+[[792 278]
+ [142 876]]             precision    recall  f1-score   support
+
+          0       0.85      0.74      0.79      1070
+          1       0.76      0.86      0.81      1018
+
+avg / total       0.80      0.80      0.80      2088
+
+Random Forest training: 0.774839 (0.012793)
+confusion matrix 
+[[656 414]
+ [ 64 954]]             precision    recall  f1-score   support
+
+          0       0.91      0.61      0.73      1070
+          1       0.70      0.94      0.80      1018
+
+avg / total       0.81      0.77      0.77      2088
+
+
+ classification result for Folk & Americana
+decisionTree training: 0.790549 (0.017651)
+confusion matrix 
+[[ 894  426]
+ [ 138 1209]]             precision    recall  f1-score   support
+
+          0       0.87      0.68      0.76      1320
+          1       0.74      0.90      0.81      1347
+
+avg / total       0.80      0.79      0.79      2667
+
+knn training: 0.778654 (0.014182)
+confusion matrix 
+[[ 963  357]
+ [ 193 1154]]             precision    recall  f1-score   support
+
+          0       0.83      0.73      0.78      1320
+          1       0.76      0.86      0.81      1347
+
+avg / total       0.80      0.79      0.79      2667
+
+Naive Bayes training: 0.748593 (0.015560)
+confusion matrix 
+[[ 838  482]
+ [ 175 1172]]             precision    recall  f1-score   support
+
+          0       0.83      0.63      0.72      1320
+          1       0.71      0.87      0.78      1347
+
+avg / total       0.77      0.75      0.75      2667
+
+SVM training: 0.788620 (0.012556)
+confusion matrix 
+[[1089  231]
+ [ 358  989]]             precision    recall  f1-score   support
+
+          0       0.75      0.82      0.79      1320
+          1       0.81      0.73      0.77      1347
+
+avg / total       0.78      0.78      0.78      2667
+
+Random Forest training: 0.781388 (0.016296)
+confusion matrix 
+[[ 887  433]
+ [ 150 1197]]             precision    recall  f1-score   support
+
+          0       0.86      0.67      0.75      1320
+          1       0.73      0.89      0.80      1347
+
+avg / total       0.79      0.78      0.78      2667
+
+
+ classification result for Blues
+decisionTree training: 0.713756 (0.023094)
+confusion matrix 
+[[497 496]
+ [118 832]]             precision    recall  f1-score   support
+
+          0       0.81      0.50      0.62       993
+          1       0.63      0.88      0.73       950
+
+avg / total       0.72      0.68      0.67      1943
+
+knn training: 0.743325 (0.021744)
+confusion matrix 
+[[661 332]
+ [222 728]]             precision    recall  f1-score   support
+
+          0       0.75      0.67      0.70       993
+          1       0.69      0.77      0.72       950
+
+avg / total       0.72      0.71      0.71      1943
+
+Naive Bayes training: 0.718610 (0.025651)
+confusion matrix 
+[[611 382]
+ [223 727]]             precision    recall  f1-score   support
+
+          0       0.73      0.62      0.67       993
+          1       0.66      0.77      0.71       950
+
+avg / total       0.69      0.69      0.69      1943
+
+SVM training: 0.731851 (0.021923)
+confusion matrix 
+[[741 252]
+ [283 667]]             precision    recall  f1-score   support
+
+          0       0.72      0.75      0.73       993
+          1       0.73      0.70      0.71       950
+
+avg / total       0.72      0.72      0.72      1943
+
+Random Forest training: 0.696982 (0.022819)
+confusion matrix 
+[[433 560]
+ [ 58 892]]             precision    recall  f1-score   support
+
+          0       0.88      0.44      0.58       993
+          1       0.61      0.94      0.74       950
+
+avg / total       0.75      0.68      0.66      1943
+
+
+ classification result for Travel
+decisionTree training: 0.627639 (0.015522)
+confusion matrix 
+[[968 133]
+ [691 442]]             precision    recall  f1-score   support
+
+          0       0.58      0.88      0.70      1101
+          1       0.77      0.39      0.52      1133
+
+avg / total       0.68      0.63      0.61      2234
+
+knn training: 0.613436 (0.019370)
+confusion matrix 
+[[686 415]
+ [398 735]]             precision    recall  f1-score   support
+
+          0       0.63      0.62      0.63      1101
+          1       0.64      0.65      0.64      1133
+
+avg / total       0.64      0.64      0.64      2234
+
+Naive Bayes training: 0.591363 (0.013393)
+confusion matrix 
+[[401 700]
+ [180 953]]             precision    recall  f1-score   support
+
+          0       0.69      0.36      0.48      1101
+          1       0.58      0.84      0.68      1133
+
+avg / total       0.63      0.61      0.58      2234
+
+SVM training: 0.607486 (0.012710)
+confusion matrix 
+[[640 461]
+ [400 733]]             precision    recall  f1-score   support
+
+          0       0.62      0.58      0.60      1101
+          1       0.61      0.65      0.63      1133
+
+avg / total       0.61      0.61      0.61      2234
+
+Random Forest training: 0.631094 (0.016031)
+confusion matrix 
+[[933 168]
+ [648 485]]             precision    recall  f1-score   support
+
+          0       0.59      0.85      0.70      1101
+          1       0.74      0.43      0.54      1133
+
+avg / total       0.67      0.63      0.62      2234
+
+
+ classification result for Kids
+decisionTree training: 0.710886 (0.021151)
+confusion matrix 
+[[621 337]
+ [211 790]]             precision    recall  f1-score   support
+
+          0       0.75      0.65      0.69       958
+          1       0.70      0.79      0.74      1001
+
+avg / total       0.72      0.72      0.72      1959
+
+knn training: 0.706065 (0.011280)
+confusion matrix 
+[[609 349]
+ [229 772]]             precision    recall  f1-score   support
+
+          0       0.73      0.64      0.68       958
+          1       0.69      0.77      0.73      1001
+
+avg / total       0.71      0.70      0.70      1959
+
+Naive Bayes training: 0.664266 (0.019610)
+confusion matrix 
+[[590 368]
+ [299 702]]             precision    recall  f1-score   support
+
+          0       0.66      0.62      0.64       958
+          1       0.66      0.70      0.68      1001
+
+avg / total       0.66      0.66      0.66      1959
+
+SVM training: 0.631214 (0.034381)
+confusion matrix 
+[[628 330]
+ [288 713]]             precision    recall  f1-score   support
+
+          0       0.69      0.66      0.67       958
+          1       0.68      0.71      0.70      1001
+
+avg / total       0.68      0.68      0.68      1959
+
+Random Forest training: 0.686584 (0.017373)
+confusion matrix 
+[[510 448]
+ [155 846]]             precision    recall  f1-score   support
+
+          0       0.77      0.53      0.63       958
+          1       0.65      0.85      0.74      1001
+
+avg / total       0.71      0.69      0.68      1959
+
+
+ classification result for Reggae
+decisionTree training: 0.816839 (0.013828)
+confusion matrix 
+[[843 297]
+ [128 963]]             precision    recall  f1-score   support
+
+          0       0.87      0.74      0.80      1140
+          1       0.76      0.88      0.82      1091
+
+avg / total       0.82      0.81      0.81      2231
+
+knn training: 0.835098 (0.013908)
+confusion matrix 
+[[892 248]
+ [129 962]]             precision    recall  f1-score   support
+
+          0       0.87      0.78      0.83      1140
+          1       0.80      0.88      0.84      1091
+
+avg / total       0.84      0.83      0.83      2231
+
+Naive Bayes training: 0.690764 (0.022639)
+confusion matrix 
+[[558 582]
+ [129 962]]             precision    recall  f1-score   support
+
+          0       0.81      0.49      0.61      1140
+          1       0.62      0.88      0.73      1091
+
+avg / total       0.72      0.68      0.67      2231
+
+SVM training: 0.826640 (0.016998)
+confusion matrix 
+[[919 221]
+ [180 911]]             precision    recall  f1-score   support
+
+          0       0.84      0.81      0.82      1140
+          1       0.80      0.84      0.82      1091
+
+avg / total       0.82      0.82      0.82      2231
+
+Random Forest training: 0.813192 (0.015708)
+confusion matrix 
+[[802 338]
+ [105 986]]             precision    recall  f1-score   support
+
+          0       0.88      0.70      0.78      1140
+          1       0.74      0.90      0.82      1091
+
+avg / total       0.82      0.80      0.80      2231
+
+
+ classification result for Gaming
+decisionTree training: 0.721659 (0.014721)
+confusion matrix 
+[[697 445]
+ [178 948]]             precision    recall  f1-score   support
+
+          0       0.80      0.61      0.69      1142
+          1       0.68      0.84      0.75      1126
+
+avg / total       0.74      0.73      0.72      2268
+
+knn training: 0.743766 (0.022806)
+confusion matrix 
+[[790 352]
+ [211 915]]             precision    recall  f1-score   support
+
+          0       0.79      0.69      0.74      1142
+          1       0.72      0.81      0.76      1126
+
+avg / total       0.76      0.75      0.75      2268
+
+Naive Bayes training: 0.726183 (0.024961)
+confusion matrix 
+[[746 396]
+ [235 891]]             precision    recall  f1-score   support
+
+          0       0.76      0.65      0.70      1142
+          1       0.69      0.79      0.74      1126
+
+avg / total       0.73      0.72      0.72      2268
+
+SVM training: 0.735075 (0.017777)
+confusion matrix 
+[[824 318]
+ [224 902]]             precision    recall  f1-score   support
+
+          0       0.79      0.72      0.75      1142
+          1       0.74      0.80      0.77      1126
+
+avg / total       0.76      0.76      0.76      2268
+
+Random Forest training: 0.688214 (0.019267)
+confusion matrix 
+[[ 543  599]
+ [ 124 1002]]             precision    recall  f1-score   support
+
+          0       0.81      0.48      0.60      1142
+          1       0.63      0.89      0.73      1126
+
+avg / total       0.72      0.68      0.67      2268
+
+
+ classification result for Punk
+decisionTree training: 0.821459 (0.013545)
+confusion matrix 
+[[863 235]
+ [136 963]]             precision    recall  f1-score   support
+
+          0       0.86      0.79      0.82      1098
+          1       0.80      0.88      0.84      1099
+
+avg / total       0.83      0.83      0.83      2197
+
+knn training: 0.830437 (0.013244)
+confusion matrix 
+[[850 248]
+ [115 984]]             precision    recall  f1-score   support
+
+          0       0.88      0.77      0.82      1098
+          1       0.80      0.90      0.84      1099
+
+avg / total       0.84      0.83      0.83      2197
+
+Naive Bayes training: 0.706738 (0.017867)
+confusion matrix 
+[[575 523]
+ [137 962]]             precision    recall  f1-score   support
+
+          0       0.81      0.52      0.64      1098
+          1       0.65      0.88      0.74      1099
+
+avg / total       0.73      0.70      0.69      2197
+
+SVM training: 0.850338 (0.013534)
+confusion matrix 
+[[887 211]
+ [132 967]]             precision    recall  f1-score   support
+
+          0       0.87      0.81      0.84      1098
+          1       0.82      0.88      0.85      1099
+
+avg / total       0.85      0.84      0.84      2197
+
+Random Forest training: 0.832192 (0.013618)
+confusion matrix 
+[[902 196]
+ [189 910]]             precision    recall  f1-score   support
+
+          0       0.83      0.82      0.82      1098
+          1       0.82      0.83      0.83      1099
+
+avg / total       0.82      0.82      0.82      2197
+
+
+ classification result for Funk
+decisionTree training: 0.789754 (0.013016)
+confusion matrix 
+[[709 296]
+ [157 905]]             precision    recall  f1-score   support
+
+          0       0.82      0.71      0.76      1005
+          1       0.75      0.85      0.80      1062
+
+avg / total       0.79      0.78      0.78      2067
+
+knn training: 0.802197 (0.021186)
+confusion matrix 
+[[772 233]
+ [188 874]]             precision    recall  f1-score   support
+
+          0       0.80      0.77      0.79      1005
+          1       0.79      0.82      0.81      1062
+
+avg / total       0.80      0.80      0.80      2067
+
+Naive Bayes training: 0.732741 (0.022139)
+confusion matrix 
+[[673 332]
+ [221 841]]             precision    recall  f1-score   support
+
+          0       0.75      0.67      0.71      1005
+          1       0.72      0.79      0.75      1062
+
+avg / total       0.73      0.73      0.73      2067
+
+SVM training: 0.779807 (0.021852)
+confusion matrix 
+[[772 233]
+ [222 840]]             precision    recall  f1-score   support
+
+          0       0.78      0.77      0.77      1005
+          1       0.78      0.79      0.79      1062
+
+avg / total       0.78      0.78      0.78      2067
+
+Random Forest training: 0.775241 (0.015090)
+confusion matrix 
+[[706 299]
+ [189 873]]             precision    recall  f1-score   support
+
+          0       0.79      0.70      0.74      1005
+          1       0.74      0.82      0.78      1062
+
+avg / total       0.77      0.76      0.76      2067
+
+
+ classification result for Comedy
+decisionTree training: 0.960518 (0.005127)
+confusion matrix 
+[[1273   28]
+ [  82 1201]]             precision    recall  f1-score   support
+
+          0       0.94      0.98      0.96      1301
+          1       0.98      0.94      0.96      1283
+
+avg / total       0.96      0.96      0.96      2584
+
+knn training: 0.950232 (0.007849)
+confusion matrix 
+[[1286   15]
+ [  90 1193]]             precision    recall  f1-score   support
+
+          0       0.93      0.99      0.96      1301
+          1       0.99      0.93      0.96      1283
+
+avg / total       0.96      0.96      0.96      2584
+
+Naive Bayes training: 0.953880 (0.008495)
+confusion matrix 
+[[1278   23]
+ [  93 1190]]             precision    recall  f1-score   support
+
+          0       0.93      0.98      0.96      1301
+          1       0.98      0.93      0.95      1283
+
+avg / total       0.96      0.96      0.96      2584
+
+SVM training: 0.956701 (0.006981)
+confusion matrix 
+[[1297    4]
+ [ 103 1180]]             precision    recall  f1-score   support
+
+          0       0.93      1.00      0.96      1301
+          1       1.00      0.92      0.96      1283
+
+avg / total       0.96      0.96      0.96      2584
+
+Random Forest training: 0.953218 (0.006707)
+confusion matrix 
+[[1287   14]
+ [  98 1185]]             precision    recall  f1-score   support
+
+          0       0.93      0.99      0.96      1301
+          1       0.99      0.92      0.95      1283
+
+avg / total       0.96      0.96      0.96      2584
+
